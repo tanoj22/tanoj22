@@ -1,7 +1,7 @@
 # Hi, I'm Sai Tanoj 👋
 
-A few years ago, I was just curious about how computers “see.”  
-That curiosity has now grown into a journey! I started with the basics, teaching machines to tell cats from dogs. Today, that same spark drives me to design models that can find tumors in medical scans, explain their predictions, and perhaps contribute to saving lives.           
+I'm currently pursuing my Master's degree in Data Analytics Engineering at Northeastern University - Boston. 
+A few years ago, I was just curious about how computers “see.” That curiosity has now grown into a journey! I started with the basics, teaching machines to tell cats from dogs. Today, that same spark drives me to design models that can find tumors in medical scans, explain their predictions, and perhaps contribute to saving lives.           
 
 
 ## 🌱 My Journey So Far
@@ -9,8 +9,7 @@ I started my academic path in Computer Science with a focus on AI and Machine Le
 
 During my time as a Computer Vision Intern at DRDO, I worked on object localization with SSD + VGG16. What struck me was how real-world challenges, like training on unannotated data, demanded more than just applying a model. I learned to innovate with weakly- and semi-supervised learning, turning constraints into opportunities.
 
-- My curiosity for impactful AI kept growing. Projects became my playground:
-
+My curiosity for impactful AI kept growing. Projects became my playground:
 🌿 Detecting tomato leaf diseases with deep learning, showing me how AI could help agriculture.
 🧑‍🤝‍🧑 Exploring fairness in gender classification with Fair Adaptive Scaling, because accuracy alone isn’t enough if models are biased.
 📝 Fine-tuning a T5 transformer for clinical note summarization, bridging language and healthcare data.
@@ -18,7 +17,7 @@ During my time as a Computer Vision Intern at DRDO, I worked on object localizat
 
 And when I’m not working on formal projects, I just love experimenting with models, testing them out, and seeing what they can do. It’s what I end up doing whenever I’m bored.  
 
-Now, at Northeastern University, where I’m pursuing my Master’s in Data Analytics Engineering, my focus is sharper than ever: computer vision and explainable AI for medicine. With a strong foundation in projects, publications, and research, I’m committed to pushing AI toward being not just powerful, but also trustworthy and fair.
+Now, at Northeastern University, my focus is sharper than ever: computer vision and explainable AI for medicine. With a strong foundation in projects, publications, and research, I’m committed to pushing AI toward being not just powerful, but also trustworthy and fair.
 
 
 ## 🔬 Publications & Research
