@@ -35,7 +35,7 @@ This was my first research publication, born out of curiosity about how deep lea
 IEEE RAICS Conference
 https://ieeexplore.ieee.org/document/10689872
 
-My second publication took me from hands-on model building to research synthesis. I authored a review paper analyzing how different machine learning techniques have been applied for crop yield prediction. This work broadened my perspective: I wasn’t just coding models, I was now evaluating what the field as a whole was doing — its strengths, limitations, and future directions. It taught me to critically assess research, not just contribute to it, and that skill has been invaluable as I transition into advanced projects in medical AI.
+My second publication took me from hands-on model building to research synthesis. I authored a review paper analyzing how different machine learning techniques have been applied for crop yield prediction. This work broadened my perspective: I wasn’t just coding models, I was now evaluating what the field as a whole was doing, its strengths, limitations, and future directions. It taught me to critically assess research, not just contribute to it, and that skill has been invaluable as I transition into advanced projects in medical AI.
 
 ## ✨ A Little Philosophy
 I see AI as a bridge between raw data and human insight.  
