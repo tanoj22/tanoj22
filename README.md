@@ -9,7 +9,7 @@ I started my academic path in Computer Science with a focus on AI and Machine Le
 
 During my time as a Computer Vision Intern at DRDO, I worked on object localization with SSD + VGG16. What struck me was how real-world challenges, like training on unannotated data, demanded more than just applying a model. I learned to innovate with weakly- and semi-supervised learning, turning constraints into opportunities.
 
-My curiosity for impactful AI kept growing. Projects became my playground:
+- My curiosity for impactful AI kept growing. Projects became my playground:
 
 🌿 Detecting tomato leaf diseases with deep learning, showing me how AI could help agriculture.
 🧑‍🤝‍🧑 Exploring fairness in gender classification with Fair Adaptive Scaling, because accuracy alone isn’t enough if models are biased.
@@ -17,7 +17,6 @@ My curiosity for impactful AI kept growing. Projects became my playground:
 🩻 Building a UNet pipeline for liver tumor segmentation, where I discovered what I call ✨ the magic of chunking - making a CPU-only setup powerful enough for medical AI.
 
 And when I’m not working on formal projects, I just love experimenting with models, testing them out, and seeing what they can do. It’s what I end up doing whenever I’m bored.  
-
 
 Now, at Northeastern University, where I’m pursuing my Master’s in Data Analytics Engineering, my focus is sharper than ever: computer vision and explainable AI for medicine. With a strong foundation in projects, publications, and research, I’m committed to pushing AI toward being not just powerful, but also trustworthy and fair.
 
