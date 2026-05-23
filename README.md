@@ -1,48 +1,49 @@
-# Hi, I'm Sai Tanoj 👋
+# Hi, I'm Sai Tanoj
 
-I'm currently pursuing my Master's degree in Data Analytics Engineering at Northeastern University - Boston. 
-A few years ago, I was just curious about how computers “see.” That curiosity has now grown into a journey! I started with the basics, teaching machines to tell cats from dogs. Today, that same spark drives me to design models that can find tumors in medical scans, explain their predictions, and perhaps contribute to saving lives.           
+Master's student at Northeastern University building AI for biomedical research and drug discovery. Graduating December 2026.
 
+## What I'm working on
 
-## 🌱 My Journey So Far
-I started my academic path in Computer Science with a focus on AI and Machine Learning at CVR College of Engineering, India. That’s where I first got hands-on with algorithms, computer vision, and the excitement of making machines see. 
+Currently an **AI Engineer Intern at ProjectPathAI** (Boston), where I build production RAG systems with hybrid retrieval and multi-layer hallucination defense for biomedical applications.
 
-During my time as a Computer Vision Intern at DRDO, I worked on object localization with SSD + VGG16. What struck me was how real-world challenges, like training on unannotated data, demanded more than just applying a model. I learned to innovate with weakly- and semi-supervised learning, turning constraints into opportunities.
+Outside of work, my projects have converged on protein language models and clinical variant interpretation — most recently [ProtLoc-AI](https://huggingface.co/spaces/Tanoj22/protloc-ai), which predicts how disease-causing mutations alter protein localization.
 
-My curiosity for impactful AI kept growing. Projects became my playground:
-🌿 Detecting tomato leaf diseases with deep learning, showing me how AI could help agriculture.
-🧑‍🤝‍🧑 Exploring fairness in gender classification with Fair Adaptive Scaling, because accuracy alone isn’t enough if models are biased.
-📝 Fine-tuning a T5 transformer for clinical note summarization, bridging language and healthcare data.
-🩻 Building a UNet pipeline for liver tumor segmentation, where I discovered what I call ✨ the magic of chunking - making a CPU-only setup powerful enough for medical AI.
+I'm interested in biologics drug discovery and want to grow into roles where production ML engineering meets real biological problems.
 
-And when I’m not working on formal projects, I just love experimenting with models, testing them out, and seeing what they can do. It’s what I end up doing whenever I’m bored.  
+## Featured projects
 
-Now, at Northeastern University, my focus is sharper than ever: computer vision and explainable AI for medicine. With a strong foundation in projects, publications, and research, I’m committed to pushing AI toward being not just powerful, but also trustworthy and fair.
+**[ProtLoc-AI](https://huggingface.co/spaces/Tanoj22/protloc-ai)** — Protein subcellular localization and variant effect prediction
+ESM-2 backbone with a residue-attention classifier achieving 3.7× higher mutation sensitivity than mean-pooled baselines. Validated on disease-relevant variants. Live demo on HuggingFace Spaces.
+*Python · PyTorch · ESM-2 · HuggingFace · Three.js*
 
+**MedAgent** *(in progress)* — Multi-agent biomedical research assistant
+LangGraph orchestration over hybrid RAG retrieval with three-layer hallucination defense. Built to demonstrate production-grade agentic AI for biomedical literature search.
+*Python · LangGraph · ChromaDB · FastAPI · Docker*
 
-## 🔬 Publications & Research
-📑 Publications
+**DenseNet121 Variants for Class-Imbalanced Breast Cancer Detection**
+Implemented CLAHE preprocessing, EMA weight averaging, and focal loss for mammogram classification. External validation on INbreast revealed probability calibration failure under domain shift — documented as the primary bottleneck for clinical deployment.
+*Python · PyTorch · DenseNet121 · OpenCV*
 
-🔬 Early-Stage Identification of Tomato Leaf Diseases using VGG16 and MobileNet
-Macaw International Journal of Advanced Research in Computer Science and Engineering
-https://www.macawpublications.com/Journals/index.php/MIJARCSE/article/view/7
+**[Liver Tumor Segmentation from CT Scans](https://github.com/tanoj22)** — 2D UNet pipeline
+Dice score 0.78, IoU 0.70 on 20K balanced DICOM-converted slices. Designed chunk-based training strategy for CPU-only hardware.
+*Python · PyTorch · OpenCV · DICOM*
 
-This was my first research publication, born out of curiosity about how deep learning could support agriculture. I developed a computer vision model using an ensemble of VGG16 and MobileNet to detect tomato leaf diseases early. What I learned here was how AI can make real-world impact beyond labs, helping farmers prevent crop loss. It also gave me my first taste of how rigorous evaluation and metrics (precision, recall, F1-score) turn experiments into publishable science.
+## Publications
 
-📊 A Review and Comprehensive Analysis of Recent Research in Crop Yield Prediction using Machine Learning Algorithms
+**[A Review and Comprehensive Analysis of Recent Research in Crop Yield Prediction using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/10689872)**
 IEEE RAICS Conference
-https://ieeexplore.ieee.org/document/10689872
 
-My second publication took me from hands-on model building to research synthesis. I authored a review paper analyzing how different machine learning techniques have been applied for crop yield prediction. This work broadened my perspective: I wasn’t just coding models, I was now evaluating what the field as a whole was doing, its strengths, limitations, and future directions. It taught me to critically assess research, not just contribute to it, and that skill has been invaluable as I transition into advanced projects in medical AI.
+**[Early-Stage Identification of Tomato Leaf Diseases using VGG16 and MobileNet Convolutional Neural Networks](https://www.macawpublications.com/Journals/index.php/MIJARCSE/article/view/7)**
+Macaw International Journal of Advanced Research in Computer Science and Engineering
 
-## ✨ A Little Philosophy
-I see AI as a bridge between raw data and human insight.  
-For me, the real promise of AI isn’t in replacing human judgment, but in earning trust by making decisions clearer, fairer, and easier to understand.
+## Background
 
-**Let’s build AI that makes a real difference!**  
+MS Data Analytics Engineering at Northeastern (Dec 2026 expected, GPA 3.84/4.00). Previously: BTech in Computer Science with concentration in AI/ML at CVR College of Engineering. Computer Vision Intern at DRDO (Defense Research and Development Organization, India), where I built an SSD + VGG16 weakly-supervised object localization framework from scratch in PyTorch.
 
-📫 Always open to collaborations, ideas, and conversations.  
-- 📞 Phone: **+1 (857) 397-7730**  
-- 📧 College Email: **salehundam.s@northeastern.edu**  
-- 📧 Personal Email: **saitanojs@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/saitanojs)  
+## Get in touch
+
+Open to conversations about biologics drug discovery, computational biology, and production ML engineering — especially with teams in the Boston biotech ecosystem.
+
+📧 [salehundam.s@northeastern.edu](mailto:salehundam.s@northeastern.edu)
+💼 [LinkedIn](https://linkedin.com/in/your-handle)
+📞 +1 (857) 397-7730
