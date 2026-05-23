@@ -1,4 +1,4 @@
-# Hi, I'm Sai Tanoj
+# Hi, I'm Tanoj
 
 Master's student at Northeastern University building AI for biomedical research and drug discovery. Graduating December 2026.
 
