@@ -20,7 +20,7 @@ From-scratch **CGCNN-style graph neural network** on roughly 100K Materials Proj
 ESM-2 (650M-parameter protein language model) backbone with a custom **residue-level attention classifier** replacing mean pooling, trained on 28,303 DeepLoc proteins across 11 compartments. Reached **macro F1 0.738, AUROC 0.932** on a held-out test set (n=4,202), lifting F1 on the rarest compartment (Peroxisome) from 0.52 to 0.68. Live demo on HuggingFace Spaces.
 `Python` · `PyTorch` · `ESM-2` · `HuggingFace`
 
-### MedAgent: multi-agent biomedical research assistant
+### [MedAgent](https://tanoj22-medagent.hf.space): multi-agent biomedical research assistant
 A **LangGraph orchestrator** routes plain-English questions to tool-grounded specialist agents (literature, molecule, protein) over hybrid BM25 + dense retrieval, reaching 100% recall@8 on a 150-query benchmark across 25K+ harvested PubMed abstracts. A **three-layer hallucination guard** retries under stricter constraints and refuses rather than guess when it can't ground a claim. Deployed as a Docker container with CI/CD, validated on a 22-case routing/refusal suite.
 `Python` · `LangGraph` · `ChromaDB` · `FastAPI` · `Docker`
 
